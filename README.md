@@ -57,6 +57,13 @@ I care about **clean APIs**, **solid data models**, and **code that other develo
   </tr>
 </table>
 
+### 👁 What I’m About
+
+- 🧠 Backend-first thinking with full-stack execution  
+- 🧰 Designing **scalable APIs**, data models, and maintainable systems  
+- 🌱 Building things, breaking assumptions, improving iteratively  
+- 🤝 Open source contributions, real-world codebases, continuous learning
+
 <!--
 **sahilsahni18/sahilsahni18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
