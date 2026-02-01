@@ -34,24 +34,24 @@ I care about **clean APIs**, **solid data models**, and **code that other develo
   <tr>
     <!-- LinkedIn -->
     <td align="center" width="80">
-      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+      <a href="https://www.linkedin.com/in/sahil-sahney-a66693297/" target="_blank">
         <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png" width="48" />
       </a>
     </td>
     <td align="center" width="80">
-      <a href="mailto:YOUR_EMAIL@gmail.com">
+      <a href="mailto:sahilsahney.work@gmail.com">
         <img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png" width="55" />
       </a>
     </td>
     <td align="center" width="80">
-      <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="48" />
+      <a href="https://codeforces.com/profile/sahni18" target="_blank">
+        <img src="./assets/codeforces.png" width="56" />
       </a>
     </td>
    <!-- CodeChef -->
 <td align="center" width="80">
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="48" />
+  <a href="https://www.codechef.com/users/sahni18" target="_blank">
+    <img src="./assets/codechef.png" width="48" />
   </a>
 </td>
   </tr>
