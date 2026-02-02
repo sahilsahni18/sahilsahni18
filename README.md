@@ -96,19 +96,6 @@ I care about **clean APIs**, **solid data models**, and **code that other develo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sahilsahni18&theme=merko&hide_border=true&show_icons=true"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=sahilsahni18&theme=merko&hide_border=true"
-    height="165"
-  />
-</p>
-
 
 <!--
 **sahilsahni18/sahilsahni18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
