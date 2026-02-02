@@ -96,6 +96,18 @@ I care about **clean APIs**, **solid data models**, and **code that other develo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+## 🐍 GitHub Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sahilsahni18/sahilsahni18/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sahilsahni18/sahilsahni18/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/sahilsahni18/sahilsahni18/output/github-snake.svg" />
+  </picture>
+</p>
 
 <!--
 **sahilsahni18/sahilsahni18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
