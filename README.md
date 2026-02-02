@@ -96,6 +96,16 @@ I care about **clean APIs**, **solid data models**, and **code that other develo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+## 📊 GitHub Stats (Aggregated)
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilsahni18&theme=github_dark"
+    height="170"
+  />
+</p>
+
+
 ## 🐍 GitHub Contribution Graph
 
 <p align="center">
